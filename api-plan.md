@@ -1,5 +1,9 @@
 # План API
 
+## Пользователи
+
+GET /api/users
+
 ## Товары
 
 GET /api/products
