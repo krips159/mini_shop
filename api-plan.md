@@ -4,6 +4,20 @@
 
 GET /api/users
 
+## Авторизация
+
+POST /api/auth/login
+
+POST /api/auth/register
+
+## Избранное
+
+GET /api/favorites
+
+POST /api/favorites
+
+DELETE /api/favorites/{id}
+
 ## Товары
 
 GET /api/products
